@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb0928f-5f85-4308-9cdb-dabb7897e64e" name="Changes" comment="P1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsultarMoneda.java" afterDir="false" />
-    </list>
+    <list default="true" id="1bb0928f-5f85-4308-9cdb-dabb7897e64e" name="Changes" comment="P2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Principal.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -80,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721036860731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="P2">
+      <option name="closed" value="true" />
+      <created>1721037593996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721037593996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="P1" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1" />
+    <MESSAGE value="P2" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2" />
   </component>
 </project>
