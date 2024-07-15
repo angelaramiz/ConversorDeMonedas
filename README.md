@@ -1,3 +1,4 @@
+
 # ConversorDeMonedas
 
 Este proyecto es una aplicación de conversión de monedas desarrollada en Java. La aplicación permite consultar tasas de cambio y convertir entre diferentes monedas de manera sencilla.
@@ -41,20 +42,20 @@ Este proyecto es una aplicación de conversión de monedas desarrollada en Java.
     ```
 2. Sigue las instrucciones en la consola para consultar y convertir monedas.
 
-## Ejemplo de Uso
+## Contribuciones
 
-```java
-public class Principal {
-    public static void main(String[] args) {
-        Monedas moneda = new Monedas();
-        ConvertirMonedas convertir = new ConvertirMonedas();
+Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
-        // Consultar tasa de cambio
-        double tasa = ConsultarMoneda.obtenerTasa("USD", "EUR");
-        System.out.println("Tasa de cambio USD a EUR: " + tasa);
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`).
+3. Realiza tus cambios y haz commit (`git commit -m 'Add some AmazingFeature'`).
+4. Sube los cambios a tu rama (`git push origin feature/AmazingFeature`).
+5. Abre un Pull Request.
 
-        // Convertir monedas
-        double cantidadConvertida = convertir.convertir("USD", "EUR", 100);
-        System.out.println("100 USD en EUR: " + cantidadConvertida);
-    }
-}
+## Contacto
+
+Angel Aramiz - [angelaramiz22@gmail.com]
+
+---
+
+¡Gracias por usar ConversorDeMonedas
